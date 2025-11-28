@@ -1,0 +1,10 @@
+# Ignora i file temporanei di Jupyter
+.ipynb_checkpoints/
+
+# Ignora cache di Python
+__pycache__/
+*.py[cod]
+
+# Ignora file di sistema
+.DS_Store
+Thumbs.db

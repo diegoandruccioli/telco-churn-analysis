@@ -1,0 +1,5 @@
+# Auto-detect text files and perform LF normalization
+* text=auto
+
+# Jupyter notebooks should be treated as text
+*.ipynb text
