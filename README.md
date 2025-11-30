@@ -109,6 +109,6 @@ Per eseguire il progetto in locale:
 
 ---
 
-**Autore:** [Tuo Nome]
-**Corso:** Big Data / Data Science
-**Anno Accademico:** 2024/2025
+**Autore:** Diego Andruccioli
+**Corso:** Laboratorio di Big Data, Data Mining e Data Analytics
+**Anno Accademico:** 2025/2026
